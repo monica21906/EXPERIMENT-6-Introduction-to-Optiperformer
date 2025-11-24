@@ -1,7 +1,8 @@
 
 Exp 6 Simulation of Optical Communication System
 ## Introduction to OptiPerformer 
-## Objective
+
+## AIM
 Download and install OptiPerformer software on your computer and run a sample file.
 
 ---
@@ -24,6 +25,16 @@ The system includes:
 - A Bit Error Rate (BER) analyzer
 
 ---
+
+## Theory
+
+Optiwave introduces OptiPerformer, a free photonic design automation tool which harnesses the full power of OptiSystem and creates specific dynamic design scenarios which can be used by students.
+
+In this exercise, you will download and install OptiPerformer on your PC/laptop. Your license of OptiPerformer will be capable of loading and running OptiSystem simulations prepared for this course.
+
+Once you have installed OptiPerformer, you can copy the first file (named: ‘Introduction_OptiPerformer.osp’) to your PC and run the simulation. The first file is a basic fiber optic system consisting of a transmitter, a fiber and a receiver. The system is “instrumented” with an optical power meter at the input to receiver (or the output of the fiber) and a bit error rate (BER) analyzer.
+<img width="729" height="367" alt="image" src="https://github.com/user-attachments/assets/46888a2f-9c55-4616-9d8a-8a44eee776ca" />
+
 
 ## Instructions
 
